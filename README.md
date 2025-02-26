@@ -9,7 +9,7 @@
 ## 🧑‍💻 Resumo Sobre Mim  
 Sou um estudante de **Engenharia de Software** na **Universidade de Brasília (UnB)**, apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou focado em aprimorar minhas habilidades em **desenvolvimento web e programação orientada a objetos**, sempre buscando novas oportunidades para aprender e crescer profissionalmente.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-silva&theme=chartreuse-default&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-silva&theme=chartreuse-dark&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-silva&layout=compact)
 
@@ -17,7 +17,7 @@ Sou um estudante de **Engenharia de Software** na **Universidade de Brasília (U
 🎓 **Formação:** Engenharia de Software | Universidade de Brasília <img src="unb_logo.png" width="20">  
 💼 **Atualmente trabalhando como:** Estagiário | JM Empilhadeira <img src="jm_logo_1.jfif" width="20">  
 🔍 **Buscando oportunidades em:** Frontend, DevJunior, Estagiário de TI 💻  
-📍 **Localização:** Brasília, Brasil  
+📍 **Localização:** Brasília, Brasil 🇧🇷  
 
 ---
 
