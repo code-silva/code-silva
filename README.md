@@ -74,7 +74,7 @@ I am a **Software Engineering** student at the **University of Brasília (UnB)**
 
 ## 🚀 More Information
 🎓 **Education:** Software Engineering | University of Brasília <img src="unb_logo.png" width="20">  
-💼 **Currently working as:** Intern | JM Empilhadeira <img src="jm_logo_1.jfif" width="20">  
+💼 **Currently working as:** Intern | Administração Regional do Gama 
 🔍 **Looking for opportunities in:** Frontend, DevJunior, IT Intern 💻  
 📍 **Location:** Brasília, Brazil  
 
