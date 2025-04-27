@@ -20,7 +20,7 @@ Sou um estudante de **Engenharia de Software** na **Universidade de Brasília (U
 
 ## 🚀 Mais Informações
 🎓 **Formação:** Engenharia de Software | Universidade de Brasília <img src="unb_logo.png" width="20">  
-💼 **Atualmente trabalhando como:** Estagiário | JM Empilhadeira <img src="jm_logo_1.jfif" width="20">  
+💼 **Atualmente trabalhando como:** Estagiário | Administração Regional do Gama   
 🔍 **Buscando oportunidades em:** Frontend, DevJunior, Estagiário de TI 💻  
 📍 **Localização:** Brasília, Brasil  
 
