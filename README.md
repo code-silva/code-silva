@@ -16,7 +16,9 @@ Sou um estudante de **Engenharia de Software** na **Universidade de Brasília (U
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-silva&theme=chartreuse-default&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-silva&layout=compact)
+![download (1)](https://github.com/user-attachments/assets/49794600-0ef3-455e-9c49-a5a6a3b6fcfe)
+
+---
 
 ## 🚀 Mais Informações
 🎓 **Formação:** Engenharia de Software | Universidade de Brasília <img src="unb_logo.png" width="20">  
@@ -54,58 +56,4 @@ Sou um estudante de **Engenharia de Software** na **Universidade de Brasília (U
 💡 *"A melhor maneira de prever o futuro é criá-lo."* – Alan Kay
 
 ---
-
-<h2 id="english" align="center">English</h2>
-
-<h1 align="center">Hello, I'm Anderson 👋</h1>
-
-<p align="center">
-  🎯 Software Engineer | 💻 Passionate About Technology | 🚀 Always Learning
-</p>
-
----
-
-## 🧑‍💻 About Me
-I am a **Software Engineering** student at the **University of Brasília (UnB)**, passionate about technology and software development. Currently, I am focused on improving my skills in **web development and object-oriented programming**, always looking for new opportunities to learn and grow professionally.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-silva&theme=chartreuse-default&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-silva&layout=compact)
-
-## 🚀 More Information
-🎓 **Education:** Software Engineering | University of Brasília <img src="unb_logo.png" width="20">  
-💼 **Currently working as:** Intern | Administração Regional do Gama 
-🔍 **Looking for opportunities in:** Frontend, DevJunior, IT Intern 💻  
-📍 **Location:** Brasília, Brazil  
-
----
-
-## 🛠️ Technologies and Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,flask" />
-</div>
-
----
-
-## 📌 My Projects
-
-### 🎮 FlappyBird
-🔹 **Description:** This repository contains a remake of the classic Flappy Bird game, developed as part of the Object-Oriented Programming course in the Software Engineering program at the University of Brasília (UnB).  
-
-🔹 **Technologies:** Python, Pygame, Object-Oriented Programming...  
-🔹 **Repository:** [🔗 FlappyBird](https://github.com/code-silva/flappybird)  
-
----
-
-## 📫 Contact Me
-
-📧 **Email:** [andersoncodebr@gmail.com](mailto:andersoncodebr@gmail.com)  
-🐙 **GitHub:** [github.com/code-silva](https://github.com/code-silva)  
-
----
-
-💡 *"The best way to predict the future is to create it."* – Alan Kay
-
-
 
