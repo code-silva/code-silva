@@ -1,7 +1,7 @@
-<h2 align="center">Escolha o seu idioma <img src="idioma_logo.jpg" width="20"></h2>
-<h2 align="center"> <a href="#portugues">PORTUGUÊS <img src="brasil logo.png" width="20"></a> | <a href="#english">ENGLISH <img src="estados unidos logo.png" width="20"></a> </h2>
+<div align="center">
+  <img width="860" height="278" alt="banner do github" src="https://github.com/user-attachments/assets/326f1acb-27df-41e6-a370-f093120be9ec" />
 
-<h2 id="portugues" align="center">Português</h2>
+</div>
 
 <h1 align="center">Olá, eu sou Anderson 👋</h1>
 
@@ -106,5 +106,6 @@ I am a **Software Engineering** student at the **University of Brasília (UnB)**
 ---
 
 💡 *"The best way to predict the future is to create it."* – Alan Kay
+
 
 
