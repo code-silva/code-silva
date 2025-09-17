@@ -15,7 +15,7 @@
 Sou um estudante de **Engenharia de Software** na **Universidade de Brasília (UnB)**, apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou focado em aprimorar minhas habilidades em **desenvolvimento web e programação orientada a objetos**, sempre buscando novas oportunidades para aprender e crescer profissionalmente.
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=code-silva&show_icons=true&theme=shadow_red" alt="Anurag's GitHub stats"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-silva&layout=compact&theme=shadow_red"/>
+  <img height="185px" src="https://github-readme-stats.vercel.app/api?username=code-silva&show_icons=true&theme=shadow_red" alt="Anurag's GitHub stats"> 
 </div>
 
 ![download (1)](https://github.com/user-attachments/assets/49794600-0ef3-455e-9c49-a5a6a3b6fcfe)
@@ -58,6 +58,7 @@ Sou um estudante de **Engenharia de Software** na **Universidade de Brasília (U
 💡 *"A melhor maneira de prever o futuro é criá-lo."* – Alan Kay
 
 ---
+
 
 
 
